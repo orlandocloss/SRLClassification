@@ -1,0 +1,51 @@
+Sentence,Predicate_Index,ARGM_NEG_Index
+"Jack did not clean the house.",3,2
+"Maria does not like spicy food.",3,2
+"The manager can not approve the proposal.",4,3
+"He will not attend the meeting tomorrow.",3,2
+"We can not find any evidence of the claim.",3,2
+"The dog did not bark at the stranger.",4,3
+"She has not finished her homework yet.",3,2
+"The team will not win the championship.",4,3
+"I do not appreciate such rudeness.",3,2
+"They did not complete the assignment on time.",3,2
+"Bob can not solve the puzzle alone.",3,2
+"The computer will not restart without error messages.",4,3
+"Lisa did not prepare for the exam adequately.",3,2
+"Our team can not tolerate such behavior any longer.",4,3
+"He does not enjoy reading science fiction.",3,2
+"The movie did not impress the critics.",4,3
+"Samantha can not decide between the two options.",3,2
+"I did not receive any notification.",3,2
+"The chef did not add salt to the recipe.",4,3
+"Our plan will not work if we rush it.",4,3
+"She can not go to the party due to a prior commitment.",3,2
+"The report does not reflect the current data.",4,3
+"We do not require a receipt for this purchase.",3,2
+"They can not postpone the meeting any further.",3,2
+"I will not tolerate any form of disrespect.",3,2
+"The new software does not support multiple languages.",5,4
+"Mark did not finish his project on time.",3,2
+"The cat can not climb the tall tree.",4,3
+"Our vacation plans did not include any outdoor activities.",5,4
+"They do not wish to participate in the event.",3,2
+"I did not see the error message on the screen.",3,2
+"He has not been feeling well lately.",4,2
+"The package will not arrive until next week.",4,3
+"We can not attend the concert because of prior commitments.",3,2
+"She did not agree with the proposed changes.",3,2
+"The candidate can not win the election without support.",4,3
+"I do not trust rumors about the new policy.",3,2
+"They have not completed their training yet.",3,2
+"The robot did not malfunction during the test.",4,3
+"I can not remember the last time I visited Paris.",3,2
+"The report did not include the latest statistics.",4,3
+"She does not want to compromise her values.",3,2
+"The teacher did not explain the problem clearly.",4,3
+"I can not accept the results without question.",3,2
+"We did not plan to extend our stay.",3,2
+"They will not invest in that project.",3,2
+"The author does not write in that genre anymore.",4,3
+"We can not believe how quickly time flies.",3,2
+"He did not enjoy the spicy meal.",3,2
+"The company does not offer refunds for digital purchases.",4,3

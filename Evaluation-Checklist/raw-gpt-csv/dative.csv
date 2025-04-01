@@ -1,0 +1,58 @@
+SentenceActive,SentencePrepositional,Predicate_Index,Active_ARG2_Index,Prepositional_ARG2_Index
+"I gave John a book.","I gave a book to John.",1,2,5
+"She sent Mary a letter.","She sent a letter to Mary.",1,2,5
+"He offered Tom a ride.","He offered a ride to Tom.",1,2,5
+"They handed Mark a gift.","They handed a gift to Mark.",1,2,5
+"We provided Jane a chance.","We provided a chance to Jane.",1,2,5
+"Alice lent Bob a car.","Alice lent a car to Bob.",1,2,5
+"She cooked Ann a meal.","She cooked a meal for Ann.",1,2,5
+"He assigned Jack a task.","He assigned a task to Jack.",1,2,5
+"They awarded Kim a prize.","They awarded a prize to Kim.",1,2,5
+"We sent Paul a postcard.","We sent a postcard to Paul.",1,2,5
+"I gave Mark a nod.","I gave a nod to Mark.",1,2,5
+"She offered Tom a seat.","She offered a seat to Tom.",1,2,5
+"He handed Eve a pen.","He handed a pen to Eve.",1,2,5
+"They sent Liz an email.","They sent an email to Liz.",1,2,5
+"We gave Sam a gift.","We gave a gift to Sam.",1,2,5
+"I lent Amy a watch.","I lent a watch to Amy.",1,2,5
+"She sent Joe a note.","She sent a note to Joe.",1,2,5
+"He offered Sue a drink.","He offered a drink to Sue.",1,2,5
+"They handed Ben a key.","They handed a key to Ben.",1,2,5
+"We gave Kim a book.","We gave a book to Kim.",1,2,5
+"I sent Dan a card.","I sent a card to Dan.",1,2,5
+"She offered Ray a job.","She offered a job to Ray.",1,2,5
+"He lent Tim a bike.","He lent a bike to Tim.",1,2,5
+"They gave Max a chance.","They gave a chance to Max.",1,2,5
+"We sent Liz a package.","We sent a package to Liz.",1,2,5
+"I offered Joe a seat.","I offered a seat to Joe.",1,2,5
+"She handed Amy a letter.","She handed a letter to Amy.",1,2,5
+"He gave Bob a ring.","He gave a ring to Bob.",1,2,5
+"They sent Kim a message.","They sent a message to Kim.",1,2,5
+"We gave Tim a book.","We gave a book to Tim.",1,2,5
+"I offered Sue a chance.","I offered a chance to Sue.",1,2,5
+"She lent Ray a pen.","She lent a pen to Ray.",1,2,5
+"He gave Jan a smile.","He gave a smile to Jan.",1,2,5
+"They sent Lee a postcard.","They sent a postcard to Lee.",1,2,5
+"We offered Ann a role.","We offered a role to Ann.",1,2,5
+"I gave Liz a ticket.","I gave a ticket to Liz.",1,2,5
+"She sent Max a letter.","She sent a letter to Max.",1,2,5
+"He handed Joe a report.","He handed a report to Joe.",1,2,5
+"They gave Sam a compliment.","They gave a compliment to Sam.",1,2,5
+"We offered Kim a job.","We offered a job to Kim.",1,2,5
+"I lent Dan a camera.","I lent a camera to Dan.",1,2,5
+"She sent Ray a postcard.","She sent a postcard to Ray.",1,2,5
+"He gave Joe a chance.","He gave a chance to Joe.",1,2,5
+"They handed Kim a message.","They handed a message to Kim.",1,2,5
+"We offered Bob a ride.","We offered a ride to Bob.",1,2,5
+"I gave Ann a note.","I gave a note to Ann.",1,2,5
+"She sent Sam a gift.","She sent a gift to Sam.",1,2,5
+"He lent Kim a book.","He lent a book to Kim.",1,2,5
+"They gave Joe a ticket.","They gave a ticket to Joe.",1,2,5
+"We offered Liz a discount.","We offered a discount to Liz.",1,2,5
+"I sent my friend a postcard.","I sent a postcard to my friend.",1,3,6
+"She handed the teacher a pen.","She handed a pen to the teacher.",1,3,6
+"John offered his cousin a ride.","John offered a ride to his cousin.",1,3,6
+"Anna gave her brother a hug.","Anna gave a hug to her brother.",1,3,6
+"Mike lent his neighbor a tool.","Mike lent a tool to his neighbor.",1,3,6
+"Laura sent her colleague a memo.","Laura sent a memo to her colleague.",1,3,6
+"David offered his partner a suggestion.","David offered a suggestion to his partner.",1,3,6

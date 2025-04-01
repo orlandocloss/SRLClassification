@@ -1,0 +1,60 @@
+SentenceTemp,SentenceLoc,Predicate_Index,ARGM-TMP_Index,ARGM-LOC_Index
+"John met Jack on Friday.","John met Jack under a bridge.",1,4,5
+"Mark delivered the package at 3 PM.","Mark delivered the package at the post office.",1,6,7
+"Emma started the presentation at dawn.","Emma started the presentation near the auditorium.",1,5,6
+"Lucas finished the race at sunset.","Lucas finished the race on the track.",1,5,6
+"Olivia began the meeting at 10 AM.","Olivia began the meeting at the conference room.",1,6,7
+"Ethan completed the assignment at midnight.","Ethan completed the assignment in the library.",1,5,6
+"Sophia started the project at dawn.","Sophia started the project in the studio.",1,5,6
+"Daniel submitted the report at noon.","Daniel submitted the report at the office.",1,5,6
+"Ava began the lesson at sunrise.","Ava began the lesson in the classroom.",1,5,6
+"Oliver finished the marathon at dawn.","Oliver finished the marathon on the street.",1,5,6
+"Mia started the exam at 8 AM.","Mia started the exam at the testing center.",1,6,7
+"Noah began the speech at 7 PM.","Noah began the speech in the auditorium.",1,6,6
+"Liam completed the workout at sunrise.","Liam completed the workout in the gym.",1,5,6
+"Chloe started the exam at 9 AM.","Chloe started the exam at the testing facility.",1,6,7
+"Jacob submitted the proposal at noon.","Jacob submitted the proposal in the boardroom.",1,5,6
+"Emily started the lecture at 8 AM.","Emily started the lecture in the classroom.",1,6,6
+"Anthony finished the report at midnight.","Anthony finished the report in the office.",1,5,6
+"Zoe started the song at sunrise.","Zoe started the song at the concert hall.",1,5,7
+"Caleb finished the test at 10 AM.","Caleb finished the test in the examination hall.",1,6,7
+"Grace began the seminar at 11 AM.","Grace began the seminar at the conference center.",1,6,7
+"Evan completed the project at dusk.","Evan completed the project on the rooftop.",1,5,6
+"Avery began the workout at 6 AM.","Avery began the workout in the gym.",1,6,6
+"Connor started the task at 2 PM.","Connor started the task at the workshop.",1,6,6
+"Layla finished the quiz at 3 PM.","Layla finished the quiz in the classroom.",1,6,6
+"Henry began the lecture at 8 AM.","Henry began the lecture at the university hall.",1,6,7
+"Ella submitted the essay at midnight.","Ella submitted the essay in the study room.",1,5,7
+"Aaron began the assignment at 9 AM.","Aaron began the assignment at the school library.",1,6,7
+"Olivia delivered the lecture at 10 AM.","Olivia delivered the lecture in the seminar room.",1,6,7
+"Caleb started the meeting at noon.","Caleb started the meeting at the conference hall.",1,5,7
+"Evelyn finished the report at 11 AM.","Evelyn finished the report in the office.",1,6,6
+"Benjamin started the journey at dawn.","Benjamin started the journey on the highway.",1,5,6
+"Samantha began the training at 7 AM.","Samantha began the training at the fitness center.",1,6,7
+"Tyler completed the exam at 4 PM.","Tyler completed the exam in the testing room.",1,6,7
+"Isabella began the performance at dusk.","Isabella began the performance on the stage.",1,5,6
+"Jack finished the game at midnight.","Jack finished the game at the arena.",1,5,6
+"Olivia started the experiment at dawn.","Olivia started the experiment in the laboratory.",1,5,6
+"Grace ended the session at 5 PM.","Grace ended the session at the gymnasium.",1,6,6
+"Ethan began the lesson at 8 AM.","Ethan began the lesson in the lecture hall.",1,6,7
+"Chloe delivered the keynote at 9 AM.","Chloe delivered the keynote in the auditorium.",1,6,6
+"Samuel finished the course at midnight.","Samuel finished the course in the classroom.",1,5,6
+"Mia started the project at 7 AM.","Mia started the project in the lab.",1,6,6
+"Evelyn began the debate at noon.","Evelyn began the debate in the auditorium.",1,5,6
+"Julian completed the assignment at 6 PM.","Julian completed the assignment in the study hall.",1,6,7
+"Lydia began the research at dawn.","Lydia began the research at the institute.",1,5,6
+"Carter started the engine at 8 AM.","Carter started the engine in the garage.",1,6,6
+"Adrian completed the challenge at dusk.","Adrian completed the challenge on the field.",1,5,6
+"Elijah began the lecture at 9 AM.","Elijah began the lecture in the hall.",1,6,6
+"Mason finished the project at 5 PM.","Mason finished the project in the workshop.",1,6,6
+"Hailey began the training at 6 AM.","Hailey began the training at the gym.",1,6,6
+"Isaac completed the exam at 10 AM.","Isaac completed the exam in the testing center.",1,6,7
+"Benjamin started the journey at 6 AM.","Benjamin started the journey on the freeway.",1,6,7
+"Raven began the presentation at 11 AM.","Raven began the presentation in the auditorium.",1,6,7
+"Gabriel submitted the proposal at noon.","Gabriel submitted the proposal in the meeting room.",1,5,7
+"Fiona started the workshop at 8 AM.","Fiona started the workshop at the community center.",1,6,7
+"Logan began the assignment at 7 AM.","Logan began the assignment in the study hall.",1,6,7
+"Charlotte presented the findings at 10 AM.","Charlotte presented the findings in the conference room.",1,6,7
+"Dominic completed the test at 3 PM.","Dominic completed the test in the examination hall.",1,6,7
+"Rebecca started the seminar at 9 AM.","Rebecca started the seminar in the lecture hall.",1,6,7
+"Xavier finished the project at midnight.","Xavier finished the project in the lab.",1,5,6

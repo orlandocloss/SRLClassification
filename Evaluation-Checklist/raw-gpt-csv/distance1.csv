@@ -1,0 +1,87 @@
+Sentence,ARG0_Index,Predicate_Index
+"Jack, despite having an extremely busy schedule and numerous responsibilities, fixed the bike.",0,10
+"Mary, although feeling under the weather, prepared dinner.",0,6
+"My neighbor, who recently moved in, mowed the lawn.",1,6
+"The teacher, after grading a mountain of papers, explained the lesson.",1,8
+"Bob, having finished his homework early, watched TV.",0,6
+"Alice, after a long day at work, cooked pasta.",0,7
+"The cat, briefly startled by a noise, chased the mouse.",1,7
+"Sam, although feeling a bit tired, completed the project.",0,6
+"Jennifer, with a smile on her face, answered the question.",0,7
+"The dog, after a quick nap, barked at the mailman.",1,6
+"George, after reading an interesting article, wrote a summary.",0,6
+"Emily, despite the chilly weather, enjoyed the picnic.",0,5
+"Tom, having overcome many obstacles, succeeded in his plan.",0,5
+"Sophia, with great enthusiasm, organized the event.",0,4
+"Liam, although initially hesitant, joined the meeting.",0,4
+"Olivia, after a long journey, arrived at the station.",0,5
+"Noah, with unexpected determination, fixed the broken computer.",0,4
+"Ava, despite the heavy rain, completed her assignment.",0,5
+"William, after taking a short break, resumed his work.",0,6
+"Isabella, with a quick glance, noticed the error.",0,5
+"Jennifer, after reading the report, summarized the findings.",0,5
+"Ethan, despite feeling unwell, skipped lunch.",0,4
+"Mia, after watching a documentary, admired the artwork.",0,5
+"Logan, with a burst of energy, ran the marathon.",0,6
+"Amelia, although distracted by a phone call, finished her report.",0,7
+"Lucas, after a long wait, received his package.",0,5
+"Charlotte, with considerable effort, assembled the furniture.",0,4
+"Henry, despite the noise, concentrated on his work.",0,4
+"Victoria, after a brief pause, answered the call.",0,5
+"Daniel, with unexpected charm, won the debate.",0,4
+"Grace, although feeling nervous, delivered the speech.",0,4
+"Michael, after a quick shower, left the house.",0,5
+"Emma, with little hesitation, accepted the offer.",0,4
+"David, despite his fear of heights, climbed the tower.",0,6
+"Olivia, after studying the map, navigated the maze.",0,5
+"William, with focused determination, solved the puzzle.",0,4
+"Isabella, although overwhelmed by information, understood the concept.",0,5
+"James, after reading the instructions, built the model.",0,5
+"Sofia, with great care, wrapped the gift.",0,4
+"Benjamin, despite encountering obstacles, completed the race.",0,4
+"Mia, after a long discussion, revised the proposal.",0,5
+"Alexander, with a burst of inspiration, designed the logo.",0,6
+"Abigail, although facing many challenges, improved the system.",0,5
+"Joseph, after a brief rest, resumed his studies.",0,5
+"Ella, with careful planning, organized the schedule.",0,4
+"Liam, despite the chaotic environment, focused on the task.",0,5
+"Chloe, after taking notes, summarized the lecture.",0,4
+"Daniel, with a quick decision, opted for the red option.",0,5
+"Ava, although initially reluctant, joined the committee.",0,4
+"Matthew, after hearing the news, reacted quickly.",0,5
+"Harper, with an air of confidence, led the team.",0,6
+"Evelyn, despite the challenges, pursued her dream.",0,4
+"Oliver, after a detailed briefing, executed the plan.",0,5
+"Scarlett, with a clear vision, reformed the policy.",0,5
+"Caleb, despite the setbacks, pursued his goal.",0,4
+"Chloe, after receiving feedback, refined the proposal.",0,4
+"Samuel, with renewed energy, tackled the challenge.",0,4
+"Lila, despite the complications, solved the puzzle.",0,4
+"Owen, after a moment of hesitation, accepted the invitation.",0,6
+"Hannah, with a curious mind, explored the concept.",0,5
+"Ryan, although overwhelmed by details, managed the project.",0,5
+"Zoe, after a long discussion, formulated the idea.",0,5
+"Christopher, with a determined spirit, initiated the process.",0,5
+"Natalie, despite the complexity, solved the equation.",0,4
+"Aaron, after careful consideration, chose the red option.",0,4
+"Lydia, with unwavering focus, completed the test.",0,4
+"Brandon, despite numerous interruptions, finished his work.",0,4
+"Madison, after reviewing the agenda, started the meeting.",0,5
+"Dylan, with quiet determination, solved the problem.",0,4
+"Aubrey, despite the noise, concentrated on her task.",0,4
+"Christian, after a short break, resumed his training.",0,5
+"Samantha, with a deep breath, began the lecture.",0,5
+"Isaac, although uncertain at first, clarified his doubts.",0,5
+"Victoria, after a quick review, corrected the error.",0,5
+"Nicholas, with unwavering resolve, completed the assignment.",0,4
+"Ella, despite the long day, enjoyed the concert.",0,5
+"Robert, after a thoughtful pause, summarized the discussion.",0,5
+"Scarlett, with a hint of excitement, started the game.",0,6
+"Isaiah, despite the early morning chill, jogged around the park.",0,6
+"Ariana, after reviewing her performance, adjusted her strategy.",0,5
+"Adam, with a focused mind, solved the complex puzzle.",0,5
+"Landon, although tired from work, planned the weekend outing.",0,5
+"Zachary, after a long pause, concluded the lecture.",0,5
+"Sienna, with a burst of insight, devised the new plan.",0,6
+"Max, despite a series of setbacks, achieved his goal.",0,6
+"Hailey, after reading the instructions carefully, assembled the model.",0,6

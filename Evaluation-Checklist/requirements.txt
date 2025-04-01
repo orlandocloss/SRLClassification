@@ -1,0 +1,10 @@
+pandas
+spacy
+numpy
+transformers[torch]
+datasets
+accelerate
+scipy
+joblib
+scikit-learn
+#   python -m spacy download en_core_web_sm
